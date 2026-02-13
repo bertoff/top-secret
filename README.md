@@ -97,7 +97,7 @@ button {
 </div>
 
 <div id="finalMessage">
-    <div>thank you!!! love you babeh see you on 22nd 🥰🥰🥰</ div>
+    <div>thank you!!! love you babeh see you on 22nd 🥰🥰🥰</div>
     <img id="kitty" src="https://raw.githubusercontent.com/bertoff/top-secret/refs/heads/main/IMG_0705.gif"  alt="Dancing Kitty">
 </div>
 
@@ -176,6 +176,3 @@ function createHeart() {
 heartInterval = setInterval(createHeart, 300);
 
 </script>
-
-</body>
-</html>
