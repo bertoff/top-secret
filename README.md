@@ -88,7 +88,7 @@ button {
 
 <div id="mainContent">
     <h1>Will You Be My Valentine? 💖</h1>
-    <p>You make my world brighter every single day.</p>
+    <p>it's been a while, will you be my valentine my love??? 😘</p>
 
     <button id="yesBtn">Yes 🥰</button>
     <button id="noBtn">No 😏</button>
