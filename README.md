@@ -98,7 +98,7 @@ button {
 
 <div id="finalMessage">
     <div>thank you!!! love you babeh see you on 22nd 🥰🥰🥰</ div>
-    <img id="kitty" src="https://github.com/bertoff/top-secret/blob/e7a6a9baa339bea0755e212f0ce885b7fce88ead/IMG_0705.gif"  alt="Dancing Kitty">
+    <img id="kitty" src="https://raw.githubusercontent.com/bertoff/top-secret/refs/heads/main/IMG_0705.gif"  alt="Dancing Kitty">
 </div>
 
 <script>
