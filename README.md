@@ -97,7 +97,7 @@ button {
 </div>
 
 <div id="finalMessage">
-    <div>You just made me the happiest boyfriend alive 🥹</div>
+    <div>thank you!!! love you babeh see you on 22nd 🥰🥰🥰</ div>
     <img id="kitty" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Dancing Kitty">
 </div>
 
